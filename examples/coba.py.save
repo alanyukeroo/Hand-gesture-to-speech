@@ -1,0 +1,16 @@
+import pyttsx
+
+def say(s):
+	engine = pyttsx.init()
+	engine.say(s)
+	a = engine.runAndWait()
+
+b = raw_input()
+
+while True:
+	if(b=='a'):
+		say('Hallo')
+	
+if(b=='b'):
+		say('Yes')
+		
