@@ -238,7 +238,7 @@ try:
                                                         #engine.runAndWait()
                                                         pass
                                                 elif(char == 'i'):
-							say('Alan')
+							say('Where')
                                                         #engine.say()
                                                         #engine.runAndWait()
                                                         pass
@@ -248,7 +248,7 @@ try:
                                                         #engine.runAndWait()
                                                         pass
                                                 elif(char == 'k'):
-							say('Are Inventor')
+							say('Learning')
                                                         #engine.say()
                                                         #engine.runAndWait()
                                                         pass
@@ -258,7 +258,37 @@ try:
                                                         #engine.runAndWait()
                                                         pass
 						elif(char == 'm'):
-							say('Of Course')
+							say('How are you')
+							pass
+						elif(char == 'n'):
+							say('Sorry')
+							pass
+						elif(char == 'o'):
+							say('From')
+							pass
+						elif(char == 'p'):
+							say('Thank you')
+							pass
+						elif(char == 'q'):
+							say('Nice')
+							pass
+						elif(char == 'r'):
+                                                        say('To meet you')
+                                                        pass
+						elif(char == 'r'):
+							say('To meet you')
+							pass
+						elif(char == 's'):
+							say('How')
+							pass
+						elif(char == 't'):
+							say('When')
+							pass
+						elif(char == 'u'):
+							say('Who')
+							pass
+						elif(char == 'v'):
+							say('Why')
 							pass
 						else:
                                                         #engine.say()
